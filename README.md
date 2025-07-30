@@ -1,2 +1,1 @@
-This project was my technical high school capstone **(TCC)**, focused on developing a wireless price tag system for supermarket shelves. It uses the **ESP8266 microcontroller** for Wi-Fi communication and **MongoDB** as the database. The goal was to create a low-cost, remotely updatable electronic labeling system for modern retail environments.
-
+This was my technical high school capstone project**(TCC)**: a wireless price tag system for supermarket shelves. The solution uses an **ESP8266 microcontroller** with Wi-Fi connectivity, a mini **OLED display** to show product prices, and **MongoDB** as the database. The project demonstrates a low-cost, scalable alternative to traditional price labeling through IoT integration.
